@@ -1,0 +1,34 @@
+.div1{
+    background: #5DEAA8;
+    height: 50px;
+    width: 50px;
+    padding: 20px;
+    border: 10px solid #43B17D;
+    margin: 60px;
+    box-sizing: content-box;
+    
+  }
+
+  .div2{
+    background: #5DEAA8;
+    height: 50px;
+    width: 50px;
+    padding: 20px;
+    border: 10px solid #43B17D;
+    margin: 60px;
+    box-sizing: padding-box;
+    
+  }
+  
+  
+  .div3{
+    background: #5DEAA8;
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    border: 10px solid #43B17D;
+    margin: 60px;
+    box-sizing: border-box;
+    
+  }
+  
